@@ -161,7 +161,7 @@ const Hero: React.FC = () => {
 
       {/* CTA Button */}
       <div className="hero-cta-container" style={{ width: '100%', display: 'flex', justifyContent: 'center', marginTop: '1.5rem', marginBottom: '0' }}>
-        <a href="#" className="hero-cta-btn" style={{
+        <a href="https://app-sokola-id.vercel.app" className="hero-cta-btn" style={{
           background: 'var(--accent, #4F8CFF)',
           color: '#fff',
           borderRadius: 14,

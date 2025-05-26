@@ -63,7 +63,7 @@ export default function Header() {
               <div style={{ height: 40, display: 'flex', alignItems: 'center' }}>
                 <LanguageSwitcher />
               </div>
-              <a href="#" style={{
+              <a href="https://app-sokola-id.vercel.app" style={{
                 background: 'var(--accent)',
                 color: '#fff',
                 borderRadius: 12,
@@ -114,7 +114,7 @@ export default function Header() {
               </div>
             </li>
             <li>
-              <a href="#" style={{
+              <a href="https://app-sokola-id.vercel.app" style={{
                 background: 'var(--accent)',
                 color: '#fff',
                 borderRadius: 12,
