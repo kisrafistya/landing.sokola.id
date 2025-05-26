@@ -142,7 +142,7 @@ const Hero: React.FC = () => {
         }}
       >
         <Image 
-          src="/assets/Shot.png"
+          src="/assets/shot.png"
           alt="Sokola App Showcase"
           width={4000}
           height={2500}
