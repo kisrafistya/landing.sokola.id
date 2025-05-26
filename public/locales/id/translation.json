@@ -1,0 +1,101 @@
+{
+  "header": {
+    "cta": "Unduh Aplikasi",
+    "nav": {
+      "about": "Tentang",
+      "features": "Fitur",
+      "faq": "FAQ"
+    }
+  },
+  "hero": {
+    "headline": "<span>Tidak Sekolah</span><br/><span class='blue-marker'>bukan berarti</span> Tanpa Pendidikan",
+    "description": "Sokola membantu orang tua merancang perjalanan belajar berkualitas dan personal untuk anak.",
+    "cta": "Lihat Jalur Belajar Pribadi Anak Anda"
+  },
+  "valueProps": {
+    "breakFree": {
+      "title": "Bebas dari Sistem Sekolah Lama",
+      "desc": "7 juta anak muda Indonesia percaya sistem pendidikan formal sudah usang. Sokola menawarkan alternatif nyata."
+    },
+    "affordable": {
+      "title": "Terjangkau, Fleksibel, dan Personal",
+      "desc": "Bangun kurikulum yang sesuai kebutuhan anak dan anggaran keluarga Anda—tidak perlu sekolah mahal atau opsi publik yang kurang efektif."
+    },
+    "aiGuidance": {
+      "title": "Panduan Berbasis AI",
+      "desc": "AI kami merekomendasikan kombinasi kursus lokal, sumber online, dan aktivitas komunitas terbaik sesuai minat dan tujuan anak Anda."
+    },
+    "community": {
+      "title": "Potensi Komunitas",
+      "desc": "Rekrut instruktur lokal berbakat, terhubung dengan orang tua lain, dan akses jaringan peluang belajar yang terus berkembang."
+    },
+    "trackProgress": {
+      "title": "Pantau Perkembangan, Bukan Hanya Kehadiran",
+      "desc": "Pantau pertumbuhan, keterampilan, dan pengalaman anak Anda—bukan sekadar nilai."
+    }
+  },
+  "socialProof": {
+    "testimonial1": {
+      "quote": "Saya tidak pernah menyangka bisa memberikan pendidikan lebih baik dari sekolah swasta untuk anak-anak saya, tapi Sokola membuatnya mungkin—dan terjangkau.",
+      "author": "Dwi, Orang Tua"
+    },
+    "testimonial2": {
+      "quote": "Kurikulum AI Sokola membuat anak saya percaya diri mengejar minatnya dan belajar sesuai ritmenya sendiri.",
+      "author": "Rina, Orang Tua"
+    }
+  },
+  "featuresPreview": {
+    "discover": "Temukan dan daftar kursus lokal maupun online",
+    "aiPaths": "Jalur dan jadwal belajar hasil AI",
+    "budget": "Pantau anggaran dan perkembangan",
+    "multiChild": "Dukungan multi-anak",
+    "reminders": "Pengingat WhatsApp & acara komunitas"
+  },
+  "faq": {
+    "q1": {
+      "q": "Apakah Sokola hanya untuk keluarga homeschooling?",
+      "a": "Tidak! Sokola untuk semua orang tua yang ingin lebih banyak kontrol dan pilihan lebih baik untuk pendidikan anak—baik sebagai pelengkap sekolah atau sepenuhnya mandiri."
+    },
+    "q2": {
+      "q": "Bagaimana Sokola menjaga biaya pendidikan tetap terjangkau?",
+      "a": "Dengan menghubungkan Anda ke instruktur lokal, aktivitas komunitas, dan kursus a la carte, Anda hanya membayar sesuai kebutuhan anak—tanpa biaya sekolah mahal."
+    },
+    "q3": {
+      "q": "Bagaimana jika saya tidak tahu cara merancang kurikulum?",
+      "a": "AI dan komunitas kami membimbing Anda di setiap langkah, sehingga mudah membangun dan menyesuaikan rencana belajar anak."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Sokola.ai. Seluruh hak cipta dilindungi.",
+    "contact": "Kontak: hello@sokola.ai",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat & Ketentuan",
+    "social": "Tautan media sosial"
+  },
+  "researchProof": {
+    "title": "Kenapa Sokola?",
+    "decliningQuality": {
+      "title": "Kualitas Sekolah Menurun",
+      "desc": "Skor PISA Indonesia turun ke peringkat 70 dunia—tertinggal 2,5 tahun dari Vietnam."
+    },
+    "teacherShortage": {
+      "title": "Krisis Guru",
+      "desc": "81% guru gagal memenuhi standar kompetensi minimum."
+    },
+    "globalGap": {
+      "title": "Kesenjangan Global Melebar",
+      "desc": "Hanya 40% siswa desa punya internet andal; jurang kota-desa makin lebar."
+    },
+    "privateTrap": {
+      "title": "Perangkap Sekolah Swasta",
+      "desc": "Biaya sekolah swasta naik 560%—68% keluarga berutang demi pendidikan."
+    },
+    "needInnovation": {
+      "title": "Orang Tua Butuh Solusi Baru",
+      "desc": "Belajar digital & aksi komunitas jadi harapan utama keluarga."
+    },
+    "citations": "Referensi:",
+    "showSources": "Lihat Sumber",
+    "hideSources": "Sembunyikan Sumber"
+  }
+} 

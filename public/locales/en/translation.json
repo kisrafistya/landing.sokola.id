@@ -1,0 +1,103 @@
+{
+  "header": {
+    "nav": {
+      "about": "About",
+      "features": "Features",
+      "faq": "FAQ"
+    },
+    "cta": {
+      "createCurriculum": "Create Curriculum"
+    }
+  },
+  "hero": {
+    "headline": "<span>No School</span><br/><span class='blue-marker'>doesn't mean</span> No Education",
+    "description": "Sokola helps parents design a personalized, high-quality learning journey for their child.",
+    "cta": "Create Curriculum Now"
+  },
+  "valueProps": {
+    "breakFree": {
+      "title": "Break Free from Outdated Schooling",
+      "desc": "7 million young Indonesians believe the formal education system is broken. Sokola offers a real alternative."
+    },
+    "affordable": {
+      "title": "Affordable, Flexible, and Personal",
+      "desc": "Build a curriculum that fits your child's needs and your family's budget—no more overpriced private schools or ineffective public options."
+    },
+    "aiGuidance": {
+      "title": "AI-Powered Guidance",
+      "desc": "Our AI suggests the best mix of local courses, online resources, and community activities, tailored to your child's interests and goals."
+    },
+    "community": {
+      "title": "Unlock Community Potential",
+      "desc": "Hire talented local instructors, connect with other parents, and tap into a growing network of learning opportunities."
+    },
+    "trackProgress": {
+      "title": "Track Progress, Not Just Attendance",
+      "desc": "Monitor your child's growth, skills, and experiences—not just grades."
+    }
+  },
+  "socialProof": {
+    "testimonial1": {
+      "quote": "I never thought I could give my kids a better education than private school, but Sokola made it possible—and affordable.",
+      "author": "Dwi, Parent"
+    },
+    "testimonial2": {
+      "quote": "Sokola's AI curriculum gave my son the confidence to pursue his interests and learn at his own pace.",
+      "author": "Rina, Parent"
+    }
+  },
+  "featuresPreview": {
+    "discover": "Discover and enroll in local and online courses",
+    "aiPaths": "AI-generated learning paths and schedules",
+    "budget": "Budget and progress tracking",
+    "multiChild": "Multi-child support",
+    "reminders": "WhatsApp reminders and community events"
+  },
+  "faq": {
+    "q1": {
+      "q": "Is Sokola only for homeschooling families?",
+      "a": "No! Sokola is for any parent who wants more control and better options for their child's education—whether you supplement school or go fully independent."
+    },
+    "q2": {
+      "q": "How does Sokola keep education affordable?",
+      "a": "By connecting you with local instructors, community activities, and a la carte courses, you only pay for what your child needs—no expensive tuition."
+    },
+    "q3": {
+      "q": "What if I don't know how to plan a curriculum?",
+      "a": "Our AI and community resources guide you every step of the way, making it easy to build and adjust your child's learning plan."
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 Sokola.ai. All rights reserved.",
+    "contact": "Contact: hello@sokola.ai",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "social": "Social media links"
+  },
+  "researchProof": {
+    "title": "Why Sokola?",
+    "decliningQuality": {
+      "title": "School Quality in Decline",
+      "desc": "Indonesia's PISA scores dropped to 70th globally—2.5 years behind Vietnam."
+    },
+    "teacherShortage": {
+      "title": "Teacher Crisis",
+      "desc": "81% of teachers fail to meet minimum competency standards."
+    },
+    "globalGap": {
+      "title": "Widening Global Gap",
+      "desc": "Only 40% of rural students have reliable internet; urban-rural divide grows."
+    },
+    "privateTrap": {
+      "title": "Private School Trap",
+      "desc": "Private school costs up 560%—68% of families take on debt for education."
+    },
+    "needInnovation": {
+      "title": "Parents Need New Solutions",
+      "desc": "Digital learning and community action are the best hope for most families."
+    },
+    "citations": "Citations:",
+    "showSources": "See Sources",
+    "hideSources": "Hide Sources"
+  }
+} 
